@@ -8,6 +8,6 @@ Use `go run .` to launch the prompts. Enter two integers followed by an operator
 
 ## Fork author and maintainer
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
 
 This fork preserves the original project authorship, licenses, and upstream acknowledgments.
